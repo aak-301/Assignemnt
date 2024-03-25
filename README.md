@@ -1,16 +1,14 @@
 # design
 
-A new Flutter project.
+This is the assignment task.
+Used MVVC architechture, code sharing for this task.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+https://github.com/aak-301/Assignemnt/assets/76422079/d91b5f75-85c5-4577-be2d-96cf253ae24e
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Issues:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The register api was not working. I couldn't get the clear idea about the field causing error. Once that is clear I can add the api's as well.
+![image](https://github.com/aak-301/Assignemnt/assets/76422079/c5c3de23-5799-4f77-a2ad-02ac4782b4e4)
