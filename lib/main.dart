@@ -4,11 +4,6 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-      //   MultiProvider(providers: [
-      //   ChangeNotifierProvider(
-      //     create: (context) => UserProvider(),
-      //   ),
-      // ], child: const MyApp())
       const MyApp());
 }
 
@@ -20,11 +15,9 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  // final AuthService authService = AuthService();
   bool isLoading = true;
 
   void init(BuildContext context) async {
-    // await authService.getUserData(context);
     setState(() {
       isLoading = false;
     });
